@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "programmer": "AVRISP mkII",
+    "sketch": "bluetooth_drv8835.ino",
+    "port": "COM14"
+}
