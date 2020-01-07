@@ -18,13 +18,11 @@ bluetooth, roboremo, arduino nano, drv8835, and battery voltage meter
 </p>
 
 <p align="center">
-<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface3.jpg" alt="inside"/>
+<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface3.jpg" alt="interface3" width="250">
 </p>
-
 <p align="center">
-<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface2.jpg" alt="inside"/>
+<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface2.jpg" alt="interface2" width="250">
 </p>
-
 <p align="center">
-<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface1.jpg" alt="inside"/>
+<img src="https://github.com/polihedron/car.drv8835/blob/master/pictures/interface1.jpg" alt="interface1" width="250">
 </p>
